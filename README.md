@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit Bhat</h1>
 <h3 align="center">I am a Computer Engineering Undergraduate at Thapar Institute Of Engineering, Patiala. I have a great passion for Full Stack Web Development and currently have done projects in Flutter App Development. I can use APIs to power my Web Applications. I also have experience in Python Programming and have gained experience in skills like AI, ML, and Unity Game Development. Apart from these skills, I understand subjects like C/C++ programming, DBMS, and Cloud Computing.</h3>
 <img src="https://static.wixstatic.com/media/nsplsh_4d534e385446684a306973~mv2_d_5184_3456_s_4_2.jpg/v1/fill/w_1976,h_756,al_c,q_90/nsplsh_4d534e385446684a306973~mv2_d_5184_3456_s_4_2.webp"></img>
-- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 Portfolio [https://abdulbasitbhat.github.io/portfolio/](https://abdulbasitbhat.github.io/portfolio/)
 
