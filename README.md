@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit Bhat</h1>
-<h3 align="center">A Computer Engineering graduate from Thapar Institute with a 9.02 CGPA. I’m currently working as an Advanced Application Engineering Analyst at Accenture, specializing in Java Full Stack, Spring Boot, and Spring MVC. My experience includes developing a No-Code website builder during an internship at Gretxp and leading a VR Flight Simulator project. I’ve built projects like Kashmir Tourister, a tourism platform, and TIETGram, a social media app with AI/ML integrations. With certifications in AI and strong programming skills, I aim to deliver impactful solutions through technology.</h3>
+<h3 align="center">A Computer Engineering graduate from Thapar Institute with a 9.02 CGPA. I’m currently working as an Advanced Application Engineering Analyst at Accenture, specializing in Java Full Stack, Spring Boot, and Spring MVC. My experience includes helping in development of a No-Code website builder during an internship and leading a VR Flight Simulator capstone project. I’ve built projects like Kashmir Tourister, a tourism platform, and TIETGram, a social media app with AI/ML integrations. With certifications in AI and strong programming skills, I aim to deliver impactful solutions through technology.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
