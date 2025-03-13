@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit Bhat</h1>
-<h3 align="center">I am a Computer Engineer, who like to engineer things. I like building Frontend interfaces, Backend APIs and sometimes Fullstack projects.</h3>
+<h3 align="center">I am a Computer Engineer. I like building Frontend interfaces, Backend APIs and sometimes Fullstack projects.</h3>
 
 <p align="left">
 </p>
